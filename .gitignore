@@ -5,4 +5,4 @@ eclipse.bat
 /robots/target
 /.idea
 /robots/.idea
-/robots/production/
+/robots/out/
